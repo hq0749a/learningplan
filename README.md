@@ -3,4 +3,4 @@
 
 直播课程安排表
 
-![1588848135770](C:\Users\hq0749a\AppData\Roaming\Typora\typora-user-images\1588848135770.png)
+![1588848135770](全日制直播安排.png)
