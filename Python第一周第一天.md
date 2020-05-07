@@ -1,6 +1,6 @@
 ##### 导言:认识你的新朋友Python,和Python     say hello!!!!!
 
-课程小节:  
+##### 课程小节:  
 1>认识你的新朋友Python家族
 2>Hello Python,迎接你的Python程序1
 3>Hello Python,迎接你的Python程序2
