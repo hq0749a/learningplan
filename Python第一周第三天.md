@@ -1,5 +1,7 @@
-﻿### 导言:今天让我们来认识一下Python的新成员: if-else,for循环,在Python中发挥着至关重要的作用,现在,我们开始今天的征程吧!!!
-#### 课程小节:  
+##### 导言:今天让我们来认识一下Python的新成员: if-else,for循环,在Python中发挥着至关重要的作用,现在,我们开始今天的征程吧!!!
+
+##### 课程小节:  
+
 1>程序中出现率最高的语句if-else
 2>所有语言通用的for循环1
 3>所有语言通用的for循环2
@@ -10,6 +12,7 @@
 7>Python函数哪里不一样2
 8>Python函数哪里不一样3
 9>Python函数哪里不一样4
+
 ##### 章节一  第十一节 程序中出现率最高的语句if-else:
    知识要点:
         1>单项分支:   if.
@@ -38,6 +41,3 @@
    知识要点:
         1>根据本节视频,使用for in,range,while,break,continue和format配合实现99乘法的2种形式.
         2>根据本节实现99乘法表的思路,尝试着举一反三,实现其它6种99乘法表.
-
-##### [参考链接](https://blog.csdn.net/weixin_45609519/article/details/105409881)
-## [原文链接](https://note.youdao.com/ynoteshare1/index.html?id=9871ea0ed0f044c9dccf685e65eb8c06&type=note)

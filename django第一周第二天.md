@@ -1,4 +1,5 @@
-﻿#### 导言:经过昨天的学习,让我们对Django有一个初步的认识.那么今天让我们 来认识一下Django的一个重要的伙伴 Web 前端!!!!!
+##### 导言:经过昨天的学习,让我们对Django有一个初步的认识.那么今天让我们 来认识一下Django的一个重要的伙伴 Web 前端!!!!!
+
 ##### 课程小节:  
 1>Web前端技术与框架
 2>Web前端技术与框架2
@@ -38,6 +39,3 @@
         2>JQuery的事件.
         3> JQuery动画.
         4>JQuery的引用,在这里可以时候使用绝对地址直接引用.
-
-
-## [原文链接](https://note.youdao.com/ynoteshare1/index.html?id=ca79cec837cc8f1afbcab7178e1f81cb&type=note)

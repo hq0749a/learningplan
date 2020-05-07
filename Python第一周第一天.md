@@ -1,4 +1,5 @@
-﻿#### 导言:认识你的新朋友Python,和Python     say hello!!!!!
+##### 导言:认识你的新朋友Python,和Python     say hello!!!!!
+
 课程小节:  
 1>认识你的新朋友Python家族
 2>Hello Python,迎接你的Python程序1
@@ -6,6 +7,7 @@
 4>Hello Python,迎接你的Python程序3
 5>Hello Python,迎接你的Python程序4
 6>Hello Python,迎接你的Python程序5
+
 #### 章节一  第一节 认识你的新朋友Python家族:
    知识要点:
         1>通过视频中Python的介绍,对Python有一个基础的认知.
@@ -45,6 +47,3 @@
         3>通常情况下,以4个空格为一个缩进,在写代码的时候,为了提升速度,可以使用tab键来代替一个缩进.
         4>批量缩进代码是,选中需要缩进的代码,然后tab全部缩进.反之, 使用shift+tab来批量取消缩进.
         5>Python中严格遵循代码的缩进规范.（可以参考PEP8规范）
-
-
-##  [原文链接](https://note.youdao.com/ynoteshare1/index.html?id=222182f5e31aa6b88b827d4dd9eaf08b&type=note)

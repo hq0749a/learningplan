@@ -1,4 +1,5 @@
-﻿#### 导言:经过半个月的学习,我们已经认识了解了Python,那么这周我们一起来认识一位Python的好伙伴Django,Django是一个强大的web开发框架,Django框架以强大的后台管理系统和多样化的组件闻名,是Python Web开发工程师的好帮手.现在,让我们开始Django模块的新征程吧!!!!!
+##### 导言:经过半个月的学习,我们已经认识了解了Python,那么这周我们一起来认识一位Python的好伙伴Django,Django是一个强大的web开发框架,Django框架以强大的后台管理系统和多样化的组件闻名,是Python Web开发工程师的好帮手.现在,让我们开始Django模块的新征程吧!!!!!
+
 ##### 课程小节:  
 1>Web原理与框架介绍
 2>环境搭建与入门案例
@@ -43,6 +44,4 @@
         4>JsonResponse对象的使用和有中文存在时乱码的解决办法.
         5>重定向redirct+reverse配合使用,将下一个请求重定向到用户首页.
         6>根据视频,实现本节中的案例,并测试运行结果.
-
-## [原文链接](https://note.youdao.com/ynoteshare1/index.html?id=daca3147c383ead6cdee45ffa78bd4f2&type=note)
 
