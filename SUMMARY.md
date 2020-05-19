@@ -46,5 +46,6 @@
       * [数据分析第二周第四天](数据分析第二周第四天.md)
   * [备注](ps/handbooks.md)
   * [参考文献](ps/ref.md)
+  * [作业要求](homework/第三周作业3——Python后台开发基础.pdf)
   * [致谢](ps/thanks.md)
   * [后记](no_end/postscript.md)  
