@@ -1,17 +1,20 @@
 ## 导言:认识你的新朋友Python,和Python     say hello!!!!!
 
 ## 课程小节:  
-1>认识你的新朋友Python家族
 
-2>Hello Python,迎接你的Python程序1
+今日学习时间为95分30秒
 
-3>Hello Python,迎接你的Python程序2
+1>认识你的新朋友Python家族(18:36)
 
-4>Hello Python,迎接你的Python程序3
+2>Hello Python,迎接你的Python程序1(14:41)
 
-5>Hello Python,迎接你的Python程序4
+3>Hello Python,迎接你的Python程序2(19:09)
 
-6>Hello Python,迎接你的Python程序5
+4>Hello Python,迎接你的Python程序3(13:53)
+
+5>Hello Python,迎接你的Python程序4(18:11)
+
+6>Hello Python,迎接你的Python程序5(11:00)
 
 #### 章节一  第一节 认识你的新朋友Python家族:
    知识要点:
